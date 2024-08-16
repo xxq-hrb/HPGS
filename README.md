@@ -1,2 +1,2 @@
 # HPGS
-generative search for Chinese herb prescriptions
+Hyperbolic Multi-Graph Neural Network based Generative Search for Chinese Herb Prescriptions
